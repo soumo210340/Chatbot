@@ -1,6 +1,4 @@
-Here's a template for a `README.md` file for your React.js chatbot project. You can customize it further based on your project's specific details.
 
----
 
 # Chatbot React.js Project
 
@@ -84,5 +82,3 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Create a new Pull Request.
 
 
-
-Feel free to adjust sections and add more details specific to your project as needed!
