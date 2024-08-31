@@ -1,0 +1,35 @@
+.chatbot {
+    width: 300px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .chatbot-messages {
+    max-height: 400px;
+    overflow-y: auto;
+    margin-bottom: 10px;
+  }
+  
+  .chatbot-message {
+    padding: 5px 10px;
+    border-bottom: 1px solid #eee;
+  }
+  
+  form {
+    display: flex;
+  }
+  
+  input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  button {
+    padding: 10px;
+    border: none;
+    background-color: #007bff;
+    color: white;
+  }
+
+  
